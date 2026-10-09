@@ -29,26 +29,38 @@ Para probar el programa utilizaremos este sistema de 3 ecuaciones con 3 incognit
 -3x_1 - 1x_2 + 2x_3 = -1
 -2x_1 + 1x_2 + 2x_3 = -3
 
-Paso 1: Indicar el tamaño del sistema
+**Paso 1**: Indicar el tamaño del sistema
 Pantalla: Ingrese el numero de variables (ecuaciones):
 Escribes: 3 y presionas Enter.
 
-Paso 2: Ingresar los coeficientes de la Ecuacion 1
+**Paso 2**: Ingresar los coeficientes de la Ecuacion 1
+
 Pantalla: Ecuacion 1: Coeficiente de x_1: -> Escribes: 2.
+
 Pantalla: Coeficiente de x_2: -> Escribes: 1.
+
 Pantalla: Coeficiente de x_3: -> Escribes: -1.
+
 Pantalla: Termino independiente (b_1): -> Escribes: 8.
 
-Paso 3: Ingresar los coeficientes de la Ecuacion 2
+**Paso 3**: Ingresar los coeficientes de la Ecuacion 2
+
 Pantalla: Ecuacion 2: Coeficiente de x_1: -> Escribes: -3.
+
 Pantalla: Coeficiente de x_2: -> Escribes: -1.
+
 Pantalla: Coeficiente de x_3: -> Escribes: 2.
+
 Pantalla: Termino independiente (b_2): -> Escribes: -11.
 
-Paso 4: Ingresar los coeficientes de la Ecuacion 3
+**Paso 4**: Ingresar los coeficientes de la Ecuacion 3
+
 Pantalla: Ecuacion 3: Coeficiente de x_1: -> Escribes: -2.
+
 Pantalla: Coeficiente de x_2: -> Escribes: 1.
+
 Pantalla: Coeficiente de x_3: -> Escribes: 2.
+
 Pantalla: Termino independiente (b_3): -> Escribes: -3.
 
 ## Salida esperada en la consola
@@ -59,7 +71,6 @@ Matriz aumentada ingresada:
 [    -3.00    -1.00     2.00 |   -11.00 ]
 [    -2.00     1.00     2.00 |    -3.00 ]
 
-==========================================
 RESULTADOS
 x_1 = 2.0000
 x_2 = 3.0000
