@@ -30,29 +30,29 @@ Para probar el programa utilizaremos este sistema de 3 ecuaciones con 3 incognit
 -2x_1 + 1x_2 + 2x_3 = -3
 
 Paso 1: Indicar el tamaño del sistema
-Pantalla: Ingrese el número de variables (ecuaciones):
-Tú escribes: 3 y presionas Enter.
+Pantalla: Ingrese el numero de variables (ecuaciones):
+Escribes: 3 y presionas Enter.
 
-Paso 2: Ingresar los coeficientes de la Ecuación 1
-Pantalla: Ecuación 1: Coeficiente de x_1: -> Escribes: 2 [Enter]
-Pantalla: Coeficiente de x_2: -> Escribes: 1 [Enter]
-Pantalla: Coeficiente de x_3: -> Escribes: -1 [Enter]
-Pantalla: Término independiente (b_1): -> Escribes: 8 [Enter]
+Paso 2: Ingresar los coeficientes de la Ecuacion 1
+Pantalla: Ecuacion 1: Coeficiente de x_1: -> Escribes: 2.
+Pantalla: Coeficiente de x_2: -> Escribes: 1.
+Pantalla: Coeficiente de x_3: -> Escribes: -1.
+Pantalla: Termino independiente (b_1): -> Escribes: 8.
 
-Paso 3: Ingresar los coeficientes de la Ecuación 2
-Pantalla: Ecuación 2: Coeficiente de x_1: -> Escribes: -3 [Enter]
-Pantalla: Coeficiente de x_2: -> Escribes: -1 [Enter]
-Pantalla: Coeficiente de x_3: -> Escribes: 2 [Enter]
-Pantalla: Término independiente (b_2): -> Escribes: -11 [Enter]
+Paso 3: Ingresar los coeficientes de la Ecuacion 2
+Pantalla: Ecuacion 2: Coeficiente de x_1: -> Escribes: -3.
+Pantalla: Coeficiente de x_2: -> Escribes: -1.
+Pantalla: Coeficiente de x_3: -> Escribes: 2.
+Pantalla: Termino independiente (b_2): -> Escribes: -11.
 
-Paso 4: Ingresar los coeficientes de la Ecuación 3
-Pantalla: Ecuación 3: Coeficiente de x_1: -> Escribes: -2 [Enter]
-Pantalla: Coeficiente de x_2: -> Escribes: 1 [Enter]
-Pantalla: Coeficiente de x_3: -> Escribes: 2 [Enter]
-Pantalla: Término independiente (b_3): -> Escribes: -3 [Enter]
+Paso 4: Ingresar los coeficientes de la Ecuacion 3
+Pantalla: Ecuacion 3: Coeficiente de x_1: -> Escribes: -2.
+Pantalla: Coeficiente de x_2: -> Escribes: 1.
+Pantalla: Coeficiente de x_3: -> Escribes: 2.
+Pantalla: Termino independiente (b_3): -> Escribes: -3.
 
 ## Salida esperada en la consola
-Una vez que ingreses el último valor, el programa procesara automáticamente los datos y te mostrara este resultado final:
+Una vez que ingreses el ultimo valor, el programa procesara los datos y te mostrara este resultado final:
 
 Matriz aumentada ingresada:
 [     2.00     1.00    -1.00 |     8.00 ]
