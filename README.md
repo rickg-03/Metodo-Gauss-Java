@@ -30,7 +30,9 @@ Para probar el programa utilizaremos este sistema de 3 ecuaciones con 3 incognit
 -2x_1 + 1x_2 + 2x_3 = -3
 
 **Paso 1**: Indicar el tamaño del sistema
+
 Pantalla: Ingrese el numero de variables (ecuaciones):
+
 Escribes: 3 y presionas Enter.
 
 **Paso 2**: Ingresar los coeficientes de la Ecuacion 1
